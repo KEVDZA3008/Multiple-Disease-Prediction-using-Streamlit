@@ -1,0 +1,4 @@
+Host ec2-user
+	HostName ec2-13-233-153-93.ap-south-1.compute.amazonaws.com
+	User ec2-user
+	IdentityFile MDCC.pem
